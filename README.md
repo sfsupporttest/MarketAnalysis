@@ -1,1 +1,1 @@
-Streamlit app link - https://mymarketanalysis.streamlit.app/
+Streamlit app with this code - https://mymarketanalysis.streamlit.app/
